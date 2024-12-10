@@ -1,0 +1,3 @@
+The Password is equal to <span id="data1"> Password</span><br>
+The Mobile is equal to <span id="data2"> Mobile</span><br>
+The Telephone is equal to <span id="data3"> Telephone</span><br>

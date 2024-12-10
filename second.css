@@ -1,0 +1,23 @@
+#RelationRecords{
+    text-align: center;
+}
+#n1{
+    height: 50%;
+    width: 30%;
+    border:2px solid black;
+}
+li{
+    font-size: 20px;
+    margin:2%;
+}
+#n1 h1{
+    text-align: center;
+}
+#Details{
+    display: none;
+    
+}
+#n1:hover + #Details {
+    display: block;
+    color: red;
+  }

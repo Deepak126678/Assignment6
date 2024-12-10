@@ -1,0 +1,16 @@
+#loginform{
+    
+    font-size: 40px;
+    width: 40%;
+    
+    
+
+}
+#Main{
+    display: flex;
+    flex-direction: row;
+}
+#img
+{
+    width:30%;
+}
